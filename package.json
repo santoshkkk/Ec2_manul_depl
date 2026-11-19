@@ -1,0 +1,12 @@
+{
+  "name": "ec2_manual_depl",
+  "version": "1.0.0",
+  "description": "Node.js application deployed on AWS EC2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
